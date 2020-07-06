@@ -2,14 +2,14 @@
 
 In the project directory, you can run:
 
-### `Part-1: Create the following routes
+### Create the following routes
 
 1.Home Page : /
 2.Add Products page : /addproducts
 3.Cart page : /cart
 4.Orders page : /orders
 
-### `Home Page:
+### Home Page:
 
 => See all the products of the company
 => List by category (by default all should be shown)
@@ -32,5 +32,5 @@ In the project directory, you can run:
 
 Should list all the orders with product information in a meaningful way
 
-### Code Splitting
+
 
