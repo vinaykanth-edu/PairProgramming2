@@ -15,20 +15,27 @@ In the project directory, you can run:
 ### Home Page:
 
 => See all the products of the company
+
 => List by category (by default all should be shown)
+
 => Add items to the cart
+
 => A Shopping Cart on the right side of the page
+
 => Shopping cart should not be visible if the cart is empty
 
 ### Add Products Page
 
 => Admin should be able to see list of all prodcuts products
+
 => create a new category option should also be in this page
 
 ### Cart Page:
 
 => Products added to cart will be shown here.
+
 => Increment and decrement buttons for each product.
+
 => If all cart items decremented to zero then the cart will be empty.
 
 ## Orders Page:
