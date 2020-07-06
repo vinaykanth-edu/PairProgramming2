@@ -4,10 +4,13 @@ In the project directory, you can run:
 
 ### Create the following routes
 
-1.Home Page : /
-2.Add Products page : /addproducts
-3.Cart page : /cart
-4.Orders page : /orders
+1.Home Page 
+
+2.Add Products page
+
+3.Cart page
+
+4.Orders page 
 
 ### Home Page:
 
