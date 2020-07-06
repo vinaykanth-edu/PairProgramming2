@@ -1,9 +1,10 @@
-import {ADD_TO_CART} from "./actionTypes";
+import {ADD_TO_CART, ADD_TO_ORDER} from "./actionTypes";
 import data from '../data.json';
 
 const initState = {
     data : data,
-    cartArray:[]
+    cartArray:[],
+    orderArray:[]
 }
 const reducer = (state = initState, {type, payload}) => {
     switch(type){
@@ -14,6 +15,14 @@ const reducer = (state = initState, {type, payload}) => {
                 cartArray:[...state.cartArray,item]
             }
         }
+
+        case ADD_TO_ORDER:{
+            return{
+                ...state,
+                orderArray:[...state.orderArray,payload]
+            }
+        }
+
         default:{
             return {...state}
         }
