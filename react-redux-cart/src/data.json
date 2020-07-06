@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "price": 649,
+        "category": "Casual Shirts",
+        "name":"Roadster",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/1667077/2018/2/8/11518090736106-Roadster-Men-Black-Shadow-Checks-Casual-Shirt-1211518090735845-1.jpg"
+    },{
+        "id":2,
+        "price": 949,
+        "category": "Casual Shirts",
+        "name":"Mast & Harbour",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/4128383/2019/8/21/d048c0d3-2c10-4c40-9ae2-2b13a11156cd1566382177860-Mast--Harbour-Men-Green-Regular-Fit-Solid-Casual-Shirt-66615-1.jpg"
+    },{
+        "id":3,
+        "price": 749,
+        "category": "Jeans",
+        "name":"Highlander",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/9162835/2019/4/2/ec096bc0-d2d9-4cf1-9fe8-7f395675e1671554196295298-HIGHLANDER-grey-4041554196293189-1.jpg"
+    },{
+        "id":4,
+        "price": 1500,
+        "category": "Jeans",
+        "name":"WROGN",
+        "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/11359242/2020/3/6/c86f2b25-0104-4e36-823d-59b7d80a1ea51583470213606-WROGN-Men-Jeans-3431583470211020-1.jpg"
+    }
+]
