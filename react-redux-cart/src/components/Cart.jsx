@@ -78,4 +78,4 @@ const mapDispatchToProps = (dispatch) => {
         submit:(payload)=>dispatch(submit(payload))
     })
 }
-export default connect(mapStateToProps, null)(Cart);
+export default connect(mapStateToProps, mapDispatchToProps)(Cart);
